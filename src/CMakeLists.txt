@@ -1,6 +1,6 @@
-# This file was automatically generated for projects
-# without default 'CMakeLists.txt' file.
+set(COMPONENT_SRCS "play_sdcard_music_example.c")
+# set(COMPONENT_SRCS "main.c")
+set(COMPONENT_ADD_INCLUDEDIRS .)
 
-FILE(GLOB_RECURSE app_sources ${CMAKE_SOURCE_DIR}/src/*.*)
 
-idf_component_register(SRCS ${app_sources})
+register_component()
