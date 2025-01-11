@@ -1,5 +1,11 @@
 {
     "files.associations": {
-        "string.h": "c"
+        "string.h": "c",
+        "task.h": "c",
+        "cstdint": "c",
+        "compare": "c",
+        "esp_crt_bundle.h": "c",
+        "audio_idf_version.h": "c",
+        "esp_idf_version.h": "c"
     }
 }
