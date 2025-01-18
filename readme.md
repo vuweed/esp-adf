@@ -6,4 +6,9 @@ The lightened way is finding many example on githubs and try to test it -> I got
 Based on https://github.com/don41382/esp32-adf-max98357-with-platformio, I I found that all the things I need, then I remove the example and the whole esp-idf repository. Suddenly, it worksssssssssssss 😁🤣😍😂🤣. Many times I tried and come up with the giving-up thought. I realized that:
 "Just keep it up, try one more tiny step. The gift shall come at the moment you don't think about it at all".
 
+# Platformio cmd
+platformio platform update espressif32
+platformio platform show espressif32
+
+
 
