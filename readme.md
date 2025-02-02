@@ -10,5 +10,8 @@ Based on https://github.com/don41382/esp32-adf-max98357-with-platformio, I I fou
 platformio platform update espressif32
 platformio platform show espressif32
 
+# Note
+Using git clone so that the esp-adf\esp-idf lib is updated
+
 
 
